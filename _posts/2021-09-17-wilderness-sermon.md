@@ -1,3 +1,19 @@
+---
+title: Wilderness Sermon
+date: 2021-07-11
+tags: theology covid sermon
+---
+
+**I preached this sermon on [Matthew 3:13-4:11](https://www.biblegateway.com/passage/?search=Matthew+3%3A13-4%3A11&version=ESV) at First Presbyterian SF on July 11, 2021. It was a sermon I desperately needed to preach to _myself_ about how Jesus graciously deals with my own COVID Failures that had been haunting me since the beginning of the pandemic.
+
+**It was my first full-length sermon ever, so it's a little long. Here are the takeaways:**
+* Jesus' temptations are re-enacting Israel's wilderness journey...which are an awful lot like our own COVID experiences.
+* Each of Jesus' temptations correspond to a specific failure of Israel in Exodus...and failures common to us.
+* Where Israel fails and where we fail, Jesus succeeds and does it _perfectly_.
+* When God looks at our own wilderness/COVID failures, He only sees the perfection of Jesus.
+
+---
+
 When the world shut down in 2020 and there was so much social and political and economic turmoil, I figured I would rise to the occasion. I was going to be diligent in my personal devotions, I was going to be serving people spiritually and physically left and right. At work and in my neighborhood, I was going to be a spirit-filled beacon of hope as the world seemed to crumble around us.
 
 It didn’t take me long to realize that I wasn’t living up to any of those things. During COVID, I was constantly haunted that I wasn’t the man I wanted to be. It was like COVID was one big test that I was constantly failing. 
