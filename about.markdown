@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Christian who is a Software Engineer.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I build software for other engineers at Airbnb so they can be more productive at work, spend less time at work, and more time with their friends and families.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Husband to [@oo0natalie0oo](https://twitter.com/oo0natalie0oo). Elder at First Presbyterian Church of San Francisco. SF Resident.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I read books on history (US, World, religious), God, culture, philosophy, vast empires that span the galaxy, and any intersection of those things.
