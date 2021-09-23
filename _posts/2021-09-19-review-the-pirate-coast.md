@@ -4,12 +4,12 @@ title: "Review: The Pirate Coast"
 tags: books history review
 ---
 
-I'm always fascinated by precedents in American history. The things we think are so outrageous in our modern politics usually aren't anything new. 
+There is really nothing new under the sun in American History. The things we think are so outrageous in our modern politics usually aren't anything new. 
 Our current issues with [foreign interference in elections](https://founders.archives.gov/documents/Jefferson/01-12-02-0405), fake news, and [partisanship](https://www.ourdocuments.gov/doc.php?flash=false&doc=15&page=transcript), are all just echos of the early days of the United States.
 
 I came across [The Pirate Coast](https://www.amazon.com/Pirate-Coast-Jefferson-Marines-Mission/dp/140130849X) by Richard Zacks at 
 [Green Apple Books](https://www.greenapplebooks.com/)'s Annex closing sale. 
-It deals with the precedent of another modern issue--interference in foreign governments.
+It deals with the original instance of another modern issue--interference in foreign governments.
 
 The book covers the relatively unknown Barbary Coast wars, America's first foreign war, and the first time we tried to overthrow a foreign government.
 It's a real-life political thriller with pirates, Marines, and an Indiana Jones-esque trek down the Nile. The author half-jokingly admits in the Acknowledgements that he's hoping someone makes a movie out of it, and it shows--it would make a great movie or TV series, but it makes you wonder if some of the details or interpretations are portrayed specifically for this purpose.
@@ -20,8 +20,6 @@ The most telling quote is from then-Secretary of State James Madison:
 In other words, "Everyone knows meddling in the affairs of other countries is wrong...but if it furthers our ends, why not?" You can imagine every president since rationalizing their foreign actions in the same way.
 
 ---
-
-
 
 The Barbary Coast (modern day Libya, Algeria, and Tunisia) in the 18th and 19th centuries made their wealth through piracy and protection rackets on the Mediterranean. The countries that didn't pay for their protection racket would find their ships attacked and their crews sold into slavery in the  egalitarian slave markets of North Africa. There, you could buy European and African slaves, Christian and Muslim, male and female. No one, including the king of Tunis, hid that the purpose was primarily sexual, regardless of race, creed, or gender.
 
