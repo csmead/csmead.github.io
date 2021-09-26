@@ -1,7 +1,12 @@
 ---
-layout: post
-title: "Review: The Pirate Coast"
+title: "Review: The Pirate Coast by Richard Zacks"
 tags: books history review
+header:
+  overlay_image: /assets/images/Burning_of_the_uss_philadelphia.jpeg
+  overlay_filter: .1
+  caption: "Image: Burning of the Frigate Philadelphia in the Harbor of Tripoli"
+excerpt: The hard-to-believe story about America's first foreign war
+tos: false
 ---
 
 There is really nothing new under the sun in American History. The things we think are so outrageous in our modern politics usually aren't anything new. 

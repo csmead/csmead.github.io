@@ -18,18 +18,40 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Planting Sequoias
+title: Cory Reads Books
+subtitle: then blabs about them
+name: Cory Mead
 description: >- # this means to ignore newlines until "baseurl:"
-  Things a software engineer rarely talks about
+  History, Theology, Science, and Books about them
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  csmead
-
+search: true
+author:
+  name: Cory Mead
+  location: San Francisco, CA
+  avatar: /assets/images/face-drawing.png
+  bio: Christian who is a software engineer
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache 
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      toc: false
+      layout: single
+      author_profile: true
+      read_time: false
+      show_dates: true
+      comments: false
+      share: false
+      related: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

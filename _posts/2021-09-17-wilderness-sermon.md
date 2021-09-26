@@ -2,17 +2,25 @@
 title: Wilderness Sermon
 date: 2021-07-11
 tags: theology covid sermon
+excerpt: "Where we fail, Jesus succeeds and does it perfectly. When God looks at our own wilderness/COVID failures, He only sees the perfection of Jesus."
+header:
+  overlay_image: /assets/images/temptation-in-wilderness.jpeg
+  overlay_filter: .3
+  caption: "Briton Rivière - The Temptation in the Wilderness"
+tos: true
 ---
 
-**I preached this sermon on [Matthew 3:13-4:11](https://www.biblegateway.com/passage/?search=Matthew+3%3A13-4%3A11&version=ESV) at First Presbyterian SF on July 11, 2021. It was a sermon I desperately needed to preach to _myself_ about how Jesus graciously deals with my own COVID Failures that had been haunting me since the beginning of the pandemic.
+**I preached this sermon on [Matthew 3:13-4:11](https://www.biblegateway.com/passage/?search=Matthew+3%3A13-4%3A11&version=ESV) at First Presbyterian SF on July 11, 2021. It was a sermon I desperately needed to preach to _myself_ about how Jesus graciously deals with my own COVID Failures that had been haunting me since the beginning of the pandemic.**
 
-**It was my first full-length sermon ever, so it's a little long. Here are the takeaways:**
+**It was a little long. Here are the takeaways:**
 * Jesus' temptations are re-enacting Israel's wilderness journey...which are an awful lot like our own COVID experiences.
 * Each of Jesus' temptations correspond to a specific failure of Israel in Exodus...and failures common to us.
 * Where Israel fails and where we fail, Jesus succeeds and does it _perfectly_.
 * When God looks at our own wilderness/COVID failures, He only sees the perfection of Jesus.
 
----
+------
+
+# The COVID Wilderness
 
 When the world shut down in 2020 and there was so much social and political and economic turmoil, I figured I would rise to the occasion. I was going to be diligent in my personal devotions, I was going to be serving people spiritually and physically left and right. At work and in my neighborhood, I was going to be a spirit-filled beacon of hope as the world seemed to crumble around us.
 
@@ -32,7 +40,8 @@ The fact that Jesus returns to this passage in Deuteronomy again and again tells
 
 COVID brought to us the same temptations the Israelites faced, which are the same temptations Jesus faced. So, for each one of these temptations of Jesus, we’re going to see how Israel dealt with that same temptation while they were in the wilderness. Then we’re going to see how we deal with it, and finally, see how Jesus succeeds where us and Israel fail.
 
----
+
+# The First Temptation
 Let’s start at the end of chapter 3:
 
 > And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; and behold, a voice from heaven said, “This is my beloved Son, with whom I am well pleased.”
@@ -84,7 +93,7 @@ There's nothing fancy about Manna, nothing exciting. Just common, boring, froste
 
 God deals with us in much the same way, except that Jesus is even more sustaining and life-giving than the manna the Israelites had. But, like the manna, he comes in such an ordinary way--through His Word and His Church. Don’t neglect these things! Even if you’ve had a hard week. Especially when you’ve had a hard week. Press into your Bible and your church family, because these things lead you right to Jesus. He is the Bread of Life! Feast on him and find the refreshment your soul is longing for.
 
----
+# The Second Temptation
 
 > Then the devil took him to the holy city and set him on the pinnacle of the temple
 > He said to him, “If you are the Son of God, throw yourself down, for it is written,
@@ -112,8 +121,6 @@ Why was I so afraid? Because deep down, I was operating on the fear that “Ever
 Half of that statement might be true. Everything I own could burn to the ground. This fire season, it’s looking increasingly likely. But even if it does, I am not going to be ruined. He walked with me in the lowest points of my life, and he continues to do so. Even if He takes everything away, He has already shown me he is faithful. On the fourth of July, I was not remembering God’s faithfulness. I was testing God in unbelief--Cory’s Wilderness Failure #2.
 
 
-
-
 What were you worrying about during our COVID wilderness? What kept you up at night? Maybe it was the threat of you or a loved one getting COVID. Or maybe you were concerned whether your job was going to last. Or whether our little church was going to survive. All of these worries have the same root: “Does God really care for us? Is the Lord really among us?” 
 
 All of these are big problems, and it’s not wrong to think about them. The problem comes when we allow our thoughts and actions to be governed by our present fears instead of God’s promises and actions. We test God when we don’t apply his previous faithfulness to our current situation. 
@@ -130,7 +137,8 @@ In these situations, we need to look to the cross. There Jesus, the perfectly ri
 
 When the darkness is crushing in around you, remember Christ’s death on the cross and day after day apply that to your circumstances. He’s already proven his love and faithfulness towards you. Cling to that hope in the darkness, and remember.
 
----
+
+# The Third Temptation
 
 Let’s move on to the third and final temptation of Jesus.
 

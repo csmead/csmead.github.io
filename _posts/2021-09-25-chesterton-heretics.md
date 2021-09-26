@@ -1,10 +1,14 @@
 ---
-layout: post
-title: "Review: Heretics"
+title: "Review: Heretics by G.K. Chesterton"
+tags: philosophy review
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/7/79/G._K._Chesterton_at_work.jpg
+  overlay_filter: .5
+excerpt: Paradoxes with a "strong sense of an unuttered joy"
 ---
 
 G.K. Chesterton (1874-1936) is my new favorite writer. 
-He's in the same category of writer as C.S. Lewis and JRR Tolkein, combining serious literary scholarship, mythology, and excellent writing with a deep, well-articulated faith. Even in this one work, the influence that Chesterton had on Lewis is hard to miss.
+He's in the same category of writer as C.S. Lewis and J.R.R Tolkein, combining serious literary scholarship, mythology, and excellent writing with a deep, well-articulated faith. Even in this one work, the influence that Chesterton had on Lewis is hard to miss. 
 
 _Heretics_ is a collection of essays where Chesterton writes against the literary and philosophical giants of his day. My knowledge of modern philosophy is pretty shallow, so most of his analysis goes right over my head. I've read H.G. Wells, but I don't actually know about his worldview. I may have skimmed the Wikipedia page on George Bernard Shaw at some point, but I couldn't begin to tell you what he thinks about the philosophy of art.  I've barely scratched the surface on Nietzsche's thought from reading Luc Ferry's _A Brief History of Thought_, but I regularly need to Google how to spell and pronounce his name. Chesterton assumes that you know _something_ about these men and their ideas. If you're like me and you don't, it can be a little hard to follow his arguments.
 
@@ -12,7 +16,7 @@ Even if most of his what he says in this collection goes over my head, the slive
 The sheer number of one-liner paradoxes alone are worth it, and the chapters on worldview, progressivism and the family are outstanding. But most encouraging and transformative to me was the "strong sense of an unuttered joy" that pervades the entire collection. 
 
 # Rhetoric
-The first thing that charmed me about these essays was the respect he had for his opponents. His introductions burst with Most arguments today demonize their opponents. Chesterton nearly eulogizes them: he shares only the positive, only the best, only the most respectful sentiment. He digs deep to find these qualities in his opponents, even as he's about to expose the emptiness, contradictions, and bankruptcy of their worldviews. In his own words:
+The first thing that charmed me about these essays was the respect he had for his opponents. Most arguments today demonize their opponents. Chesterton nearly eulogizes them: he shares only the positive, only the best, only the most respectful sentiment. He digs deep to find these qualities in his opponents, even as he's about to expose the emptiness, contradictions, and bankruptcy of their worldviews. In his own words:
 
 > We ought to see far enough into a hypocrite to see even his sincerity. We ought to be interested in that darkest and most real part of a man in which dwell not the vices that he does not display, but the virtues that he cannot.
 
