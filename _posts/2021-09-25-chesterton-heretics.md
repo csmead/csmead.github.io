@@ -5,7 +5,27 @@ header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/7/79/G._K._Chesterton_at_work.jpg
   overlay_filter: .5
 excerpt: Paradoxes with a "strong sense of an unuttered joy"
+toc: true
 ---
+
+# tl;dr
+**My Takeaways**
+* No matter how anti-dogmatic, open-minded, and progressive you are, you still have a core set of beliefs. And they're probably wrong.
+* To be interesting and exciting, you need to have a deep appreciation for the dull and common. To be strong, you need to be weak.
+* It's possible to find hope in life, not in spite of its difficulties, but _because_ of them.
+
+**Should you read it?**
+
+If you have even a tiny knowledge of modern philosophy, get excited about different worldviews, or just enjoy great writing for its own sake, **I highly recommend**. Otherwise, you'll find C.S. Lewis' non-fiction to have similar ideas and be much more accessible. If you're curious, get it [for free](https://www.gutenberg.org/ebooks/470) and skim the chapters on:
+* Introductory Remarks
+* Mr. Bernard Shaw
+* The Mildness of the Yellow Press
+* Paganism
+* On Certain Modern Writers and the Institution of the Family (this is the finest essay of the collection)
+
+---
+
+# Review
 
 [G.K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton) (1874-1936) is my new favorite writer. 
 He's in the same category of writer as C.S. Lewis and J.R.R Tolkein, combining serious literary scholarship, mythology, and excellent writing with a deep, well-articulated faith. Even in this one work, the influence that Chesterton had on Lewis is hard to miss. 
@@ -15,14 +35,14 @@ He's in the same category of writer as C.S. Lewis and J.R.R Tolkein, combining s
 Even if most of his what he says in this collection goes over my head, what I was able to pick up on was pure gold, making it a worthwhile read regardless.
 The sheer number of one-liner paradoxes alone are worth it, and the chapters on worldview, progressivism and the family are outstanding. But most encouraging and transformative to me was the "strong sense of an unuttered joy" that pervades the entire collection. 
 
-# Rhetoric
+## Rhetoric
 The first thing that charmed me about these essays was the respect he had for his opponents. Most arguments today demonize their opponents. Chesterton nearly eulogizes them: he shares only the positive, only the best, only the most respectful sentiment. He digs deep to find these qualities in his opponents, even as he's about to expose the emptiness, contradictions, and bankruptcy of their worldviews. In his own words:
 
 > We ought to see far enough into a hypocrite to see even his sincerity. We ought to be interested in that darkest and most real part of a man in which dwell not the vices that he does not display, but the virtues that he cannot.
 
 Imagine if politicians and YouTube comments aimed their arguments at the _best possible picture_ of their opponents rather than their vices?
 
-# Paradox
+## Paradox
 
 Even though I'm not familiar with all the philosophical schools Chesterton engages with, I can still appreciate _how_ he engages with them. Chesterton is sometimes call the "prince of paradox," and for good reason! Paradox drips off every page:
 
@@ -47,7 +67,7 @@ Against his close friend George Bernard Shaw, he says
 
 Chesterton sees true strength in romantic wonder, not in setting yourself as superior. The greatness of a man is not in how powerful he is, but in how often he weeps in joy and sorrow, lament and worship.
 
-# Romanticism
+## Romanticism
 The most charming thing about these essays, even though I couldn't understand all of them, is his vigorous romanticism. It's not a romanticism in spite of the hard realities of the world, but a romanticism _because_ of it.
 
 Chesterton is a Romantic-Realist. Like the romantics, he views the world with a sense of wonder and awe. Adventure is around every corner, just waiting to send you off on a heroic journey where the divine is hiding behind every tree and underneath every rock. He is invigorated with life and hope because, unlike the other worldly-wise philosophers of his age (and all ages, really) he puts aside the trappings of a philosopher and becomes a child. His child-like wonder and faith is what makes him a great philosopher and a towering intellectual figure. He doesn't see farther by standing on the shoulders of giants, but by bowing at their feet in reverence. He loves life not because he's in control of it, but because he's in awe of it.

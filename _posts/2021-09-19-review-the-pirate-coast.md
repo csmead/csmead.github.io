@@ -6,8 +6,21 @@ header:
   overlay_filter: .1
   caption: "Image: Burning of the Frigate Philadelphia in the Harbor of Tripoli"
 excerpt: The hard-to-believe story about America's first foreign war
-tos: false
+toc: true
 ---
+
+# tl;dr
+
+**My Takeaways**
+* America has tried to interfere in foreign affairs since (at least) Jefferson. His administration acknowledged it was un-American...but didn't seem to mind.
+* Don't make up lines of credit backed by the U.S. Government. They won't honor it (unless you happen to rat out Aaron Burr)
+* My dislike of Thomas Jefferson for being a wily and dirty politician is further cemented.
+
+**Should you read it?**
+
+If you want a well-told and almost fantastical history story, **yes**. However, it's a very narrow story that, to be honest, doesn't have much impact on our world today. Fun story, but not a lot of bang-for-your-buck when it comes to deeply understanding American History.
+
+# Review
 
 There is really nothing new under the sun in American History. The things we think are so outrageous in our modern politics usually aren't anything new. 
 Our current issues with [foreign interference in elections](https://founders.archives.gov/documents/Jefferson/01-12-02-0405), fake news, and [partisanship](https://www.ourdocuments.gov/doc.php?flash=false&doc=15&page=transcript), are all just echos of the early days of the United States.
@@ -24,7 +37,7 @@ The most telling quote is from then-Secretary of State James Madison:
 
 In other words, "Everyone knows meddling in the affairs of other countries is wrong...but if it furthers our ends, why not?" You can imagine every president since rationalizing their foreign actions in the same way.
 
----
+## The Adventure
 
 The Barbary Coast (modern day Libya, Algeria, and Tunisia) in the 18th and 19th centuries made their wealth through piracy and protection rackets on the Mediterranean. The countries that didn't pay for their protection racket would find their ships attacked and their crews sold into slavery in the  egalitarian slave markets of North Africa. There, you could buy European and African slaves, Christian and Muslim, male and female. No one, including the king of Tunis, hid that the purpose was primarily sexual, regardless of race, creed, or gender.
 
@@ -51,7 +64,7 @@ With the peace treaty signed and the US prisoners returned, Lear writes to Eaton
 Eaton is outraged--he's promised Hamet fame, glory, and the full support of the US government, and now they're withdrawing support. Eaton, Hamet, and the European part of the army sneak out
 of the town they had conquered, leaving the Arabs to face the Bashaw's oncoming forces alone. 
 
----
+## The Aftermath
 
 Eaton returns home. He's furious at Lear for making such a bad treaty and he's furious at Jefferson and Madison for not paying the money Eaton kept telling people the US government would pay them. He's completely broke and becomes an angry drunk.
 
@@ -65,7 +78,7 @@ former vice-president. Eaton _knows_ Burr is guilty, so he starts placing bets o
 
 Unfortunately, Eaton's sense of justice runs up against Chief Justice John Marshall's disdain of Jefferson. He acquits Burr, and Eaton loses everything--again. He dies embittered, drunk and angry.
 
----
+## The (lack of) Relevance
 
 The author claims the book is relevant because it documents the first time a US president tried to overthrow a foreign government. I'm not so sure about that. Although the book is exciting and well-written, I'm having trouble seeing the relevance of Eaton's expedition. The author builds up this great story of a mixed Christian/Arab army led by a duty-bound US civilian marching across the desert to install the rightful ruler on the throne...but peace is negotiated faster and it all comes to nothing. Sure, this is the first time the US tries to interfere in another country's leadership, but _it never actually happens_.
 

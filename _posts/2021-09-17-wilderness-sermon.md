@@ -7,12 +7,14 @@ header:
   overlay_image: /assets/images/temptation-in-wilderness.jpeg
   overlay_filter: .3
   caption: "Briton Rivière - The Temptation in the Wilderness"
-tos: true
+toc: true
 ---
+
+# tl;dr
 
 **I preached this sermon on [Matthew 3:13-4:11](https://www.biblegateway.com/passage/?search=Matthew+3%3A13-4%3A11&version=ESV) at First Presbyterian SF on July 11, 2021. It was a sermon I desperately needed to preach to _myself_ about how Jesus graciously deals with my own COVID Failures that had been haunting me since the beginning of the pandemic.**
 
-**It was a little long. Here are the takeaways:**
+**My Takeaways**
 * Jesus' temptations are re-enacting Israel's wilderness journey...which are an awful lot like our own COVID experiences.
 * Each of Jesus' temptations correspond to a specific failure of Israel in Exodus...and failures common to us.
 * Where Israel fails and where we fail, Jesus succeeds and does it _perfectly_.
