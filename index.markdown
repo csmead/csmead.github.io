@@ -6,6 +6,6 @@ layout: home
 author_profile: true
 ---
 
-Book reviews and other writings.
+The stuff I would talk to you about if I could have coffee with you in the office.
 
 **Up Next:** [The Great Influenza](https://www.amazon.com/Great-Influenza-Deadliest-Pandemic-History/dp/0143036491) by John Barry
