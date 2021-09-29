@@ -49,7 +49,7 @@ Resurrection is a key part of Christianity, but the specific idea of reuniting w
 
 Unfortunately, I have even more reason to distrust him. At one point, he uses a passage from the Bible to demonstrate what Jesus was preaching...except that it's not actually from the Bible. He puts it in quotes and even indents it, claiming that Jesus said it. But it's all made up. Jesus never said that or anything like that (I double-checked!). I don't care if you love Christianity, hate it, or are completely ambivalent: making up quotes from sources is bad and disingenuous scholarship.
 
-I don't expect him to agree with Christian ideas. In fact, I went into this book anticipating he would be violently against them--I was looking forward to his honest criticisms of my faith. Unfortunately, he has _no_ honest criticisms of Christianity--just criticisms based on words he put into Jesus' mouth and an incredibly shallow understanding of Christianity as a religion or philosophical system. 
+I don't expect him to agree with Christian ideas. In fact, I went into this book anticipating he would be violently against them--I was looking forward to his honest criticisms of my faith. Unfortunately, he has _no_ honest criticisms of Christianity--just a strawman and an incredibly shallow understanding of Christianity as a religion or philosophical system. 
 
-When analyzing Nietzsche (whom he also disagrees with), he says he wants to cast him fairly in the "best light, without seeking to criticize". Maybe he does paint Nietzsche and everyone else in the book in the best light. But given his errors, I 
+When analyzing Nietzsche (whom he also disagrees with), he says he wants to cast him fairly in the "best light, without seeking to criticize". Maybe he does paint Nietzsche and everyone else in the book in the best light--I don't know. But given his errors, I 
 don't trust his ability to cast anyone other than himself in an _accurate_ light.
