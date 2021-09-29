@@ -2,23 +2,25 @@
 title: "Review: Answers in the Form of Questions"
 tags: culture review
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/5/55/Jeopardy%21_wordmark.jpg
+  overlay_image: /assets/images/jeopardy.jpeg
   overlay_filter: .4
 excerpt: "\"The only thing more preposterous than going on Jeopardy! is going on and thinking you can win\""
 toc: true
 ---
 
 # tl;dr
-[Answers in the Form of Questions: A Definitive History and Insider's Guide to Jeopardy!](https://www.amazon.com/Answers-Form-Questions-Definitive-Insiders/dp/1538702320)
+[Answers in the Form of Questions: A Definitive History and Insider's Guide to Jeopardy!](https://www.amazon.com/Answers-Form-Questions-Definitive-Insiders/dp/1538702320) by [Claire McNear](https://www.theringer.com/authors/claire-mcnear)
 
 **My Takeaways**
-* Getting on Jeopardy! is really hard. Doing well on it is even harder.
-* To get smarter, read more children's picture books--they quickly give you the gist of history, culture, literature, etc. without going too deep.
-* Alex Trebek can [still encourage you](http://trebek-affirmations.com/) from the grave
+* Getting on _Jeopardy!_ is really hard. Doing well on it is even harder.
+* To expand your breadth of knowledge, read children's picture books--they quickly give you the gist of history, culture, literature, etc. without going too deep.
+* Alex Trebek can [still encourage you](http://trebek-affirmations.com/) from the grave.
 
 This isn't a takeaway, but the author pointed me to [this old TV ad](https://www.youtube.com/watch?v=5e0mswr09_w), which I thought was hilarious.
 
-**Should you read it?** If you're a _Jeopardy!_ fan, sure! It's a quick, light, fun read. Decently written.
+**Should you read it?** 
+
+If you're a _Jeopardy!_ fan, **sure**! It's a quick, light, fun read. Well-researched and decently written.
 
 # Review
 
@@ -27,9 +29,9 @@ I've been a fan of Jeopardy! since High School, and it was a dream of mine to be
 I got _Answers in the Form of Questions_ by Claire McNear about a month after Alex Trebek died. It has a ton of fun facts about what it's like behind-the-scenes of America's Favorite Game Show. And, it showed me how even when I was at my nerdiest and was tracking my _Jeopardy!_ progress on my TI-83 in high school, I would have had to be a whole lot nerdier and devoted to stand a chance.
 
 ## Knowledge
-People spend years training to go on _Jeopardy!_. There's a very established alumni network of past contestants who will help you train in local bar trivia nights, and entire online communities filled with training regimens. You might think that to compete well, you would need to read a lot of literature, intensely study pop culture, and Potent Potable recipes (at least, that's what I thought when I fancied myself as a potential contestant in high school). In reality, most trainees put aside _War and Peace_ and pick up a children's storybook Bible or historic graphic novel. Reading factual children's books is great practice because they give you a very high-level view of the most important aspects of literature, history, mythology, etc. (too bad _Wishbone_ isn't on air anymore...)
+People spend years training to go on _Jeopardy!_. There's a very established alumni network of past contestants who will help you train in local bar trivia nights, and entire online communities filled with training regimens. You might think that to compete well, you would need to read a lot of literature, intensely study pop culture, and Potent Potable recipes (at least, that's what I thought when I fancied myself as a potential contestant in high school). In reality, most trainees put aside _War and Peace_ and pick up a children's storybook Bible or historic graphic novel. Reading factual children's books is great practice because they give you a very high-level view of the most important aspects of literature, history, mythology, etc. (too bad _Wishbone_ isn't on air anymore...) Doing well on _Jeopardy!_ is a matter of breadth, not depth.
 
-But, even if you have an inexhaustible knowledge, you will still probably lose on _Jeopardy!_. I had a high school teacher who was on _Jeopardy!_ years earlier. I looked her up on the [JArchive Jeopardy! database](https://j-archive.com/) and was shocked. Not only did she lose, but she barely answered any questions and barely made any money. And she was probably the smartest person I knew at the time.
+But, even if you have an inexhaustible knowledge, you will still probably lose on _Jeopardy!_. I had a high school teacher who was on _Jeopardy!_ years earlier. I looked her up on the [JArchive Jeopardy! database](https://j-archive.com/)--not only did she lose, but she barely answered any questions and barely made any money. I was shocked, because she was definitely the smartest person I knew at the time.
 
 The fact is, _nearly all_ contestants know _nearly all_ of the answers _nearly all_ of the time (including my AP European History teacher). The thing that will really set you apart from your opponents isn't how much more you know, but how fast your thumb is.
 

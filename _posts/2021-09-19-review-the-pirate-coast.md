@@ -11,6 +11,8 @@ toc: true
 
 # tl;dr
 
+[The Pirate Coast: Thomas Jefferson, the First Marines, and the Secret Mission of 1805](https://www.amazon.com/Pirate-Coast-Jefferson-Marines-Mission/dp/140130849X) by [Richard Zacks](https://www.echonyc.com/~rzacks/index.html)
+
 **My Takeaways**
 * America has tried to interfere in foreign affairs since (at least) Jefferson. His administration acknowledged it was un-American...but didn't seem to mind.
 * Don't make up lines of credit backed by the U.S. Government. They won't honor it (unless you happen to rat out Aaron Burr)
