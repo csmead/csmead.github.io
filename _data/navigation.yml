@@ -1,5 +1,7 @@
 main:
-  - title: Book Reviews
+  - title: Sermons
+    url: /tags/sermons
+  - title: COVID-era Book Reviews
     url: /tags/reviews
   - title: About
     url: /about

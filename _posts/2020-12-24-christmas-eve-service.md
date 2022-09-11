@@ -1,7 +1,7 @@
 ---
 title: 2020 Christmas Eve Sermon
 excerpt: "We have the presence of God and the promise of Immanuel: that as we wait for God to act, God waits with us, and in us. Really."
-categories: theology sermon
+tags: theology sermon
 ---
 
 **This was a mini-sermon for Christmas Eve 2020, after nearly a year of virtual worship and general suffering.**
