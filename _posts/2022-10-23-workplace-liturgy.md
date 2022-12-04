@@ -1,7 +1,7 @@
 ---
 title: Liturgy of the Workplace
 date: 2022-10-23
-tags: theology work
+tags: theology work essay
 excerpt: May our work not be idolatrous or consuming, but an offering of praise
 header:
   overlay_image: /assets/images/prayerbook.jpeg

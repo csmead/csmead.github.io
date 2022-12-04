@@ -1,7 +1,7 @@
 ---
 title: Wilderness Sermon
 date: 2021-07-11
-tags: theology covid sermon
+tags: theology covid sermon theology
 excerpt: "Where we fail, Jesus succeeds and does it perfectly. When God looks at our own wilderness/COVID failures, He only sees the perfection of Jesus."
 header:
   overlay_image: /assets/images/temptation-in-wilderness.jpeg
