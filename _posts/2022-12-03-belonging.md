@@ -1,6 +1,6 @@
 ---
 title: "Essay: Belonging"
-date: 2022-10-23
+date: 2022-12-03
 tags: essay work
 excerpt: Real belonging grows roots
 header:
@@ -8,9 +8,12 @@ header:
   overlay_filter: .4
   caption: "Airbnb HQ"
 toc: false
+classes: wide
 ---
 
-> Note: These are my personal views as an Airbnb employee and almost certainly do not reflect the views of my employer
+> Note: These are my personal views as an Airbnb employee and almost certainly do not reflect the views of my employer.
+I am incredibly grateful for the facilities and environments team at Airbnb for creating such a wonderful
+space that I want to come back to day after day. This post is critical of the remote work policies themselves, not the wonderful people who make the office so special.
 
 It’s a joke that if you work at Airbnb, you’re forbidden to use the “H-word”: hotel. In the Airbnb mythos, hotels represent everything the company is not: inauthentic, mass-produced, and superficial. In contrast, Airbnbs are supposed to provide a unique and authentic experience, a sense of belonging, and a warm, human touch.
 

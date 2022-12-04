@@ -8,6 +8,7 @@ header:
   overlay_filter: .4
   caption: "Medieval French Prayer Book"
 toc: false
+classes: wide
 ---
 
 _Based on a brief talk I gave at the [Faith and Work Movement](https://www.faithandworkmovement.org/) 2022 Leaders Retreat_

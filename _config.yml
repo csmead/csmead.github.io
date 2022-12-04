@@ -31,7 +31,9 @@ author:
   name: Cory Mead
   location: San Francisco, CA
   avatar: /assets/images/face-drawing.png
-  bio: Christian who is a software engineer
+  bio: |
+    Christian who is a software engineer.
+    Aspiring volunteer docent.
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
